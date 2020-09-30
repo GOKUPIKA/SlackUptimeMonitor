@@ -6,7 +6,7 @@
 #### A simple, one file script that notifies you on slack when your website is down.
 
 ## Configuration
-
+## FOLLOW EACH STEP AS METIONED ## 
 ### Step 1 - Get the script
 
 Simply copy paste the script uptimemonitor.py into your server. After you test it add it to cron with your preferred check interval
